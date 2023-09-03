@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-![programmist-42-foto-40](https://github.com/drug173/drug173/assets/47415634/4891c1d8-eb63-4442-bd89-c326cc69074d)
+
 
 
 

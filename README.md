@@ -7,11 +7,11 @@
 ### :man_technologist: About Me:
 Я разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Ростова-на-Дону.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Я начинающий разработчик, окончил "Институт математики, механики и компьютерных наук ЮФУ", продолжаю обучение в "ИКТИБ ЮФУ".
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Изучаю нейронные сети, машинное обучение, BigData.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Python, C++, C#.
 
 
 <div align="center">

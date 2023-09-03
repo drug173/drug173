@@ -1,10 +1,21 @@
-### Hi there 👋
+### ПРИВЕТСТВУЮ 👋
 
-![image](https://github.com/drug173/drug173/assets/47415634/1ec8b432-6640-408a-b08a-6bafc0aaeef1)
+
+
+
+
+
+![programmist-42-foto-40](https://github.com/drug173/drug173/assets/47415634/4891c1d8-eb63-4442-bd89-c326cc69074d)
+
+
+
+
+
+
+
 
 
 <!--
-
 
 Here are some ideas to get you started:
 
@@ -17,4 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![vini_puh](https://github.com/drug173/drug173/assets/47415634/01fbbb0b-5032-4dc0-b5a7-167abf627d13)

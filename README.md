@@ -4,8 +4,7 @@
 
 
 <!--
-**drug173/drug173** is a ✨![vini_puh](https://github.com/drug173/drug173/assets/47415634/62c59520-0562-4af6-90a8-02c2efb0c92a)
- _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -18,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![vini_puh](https://github.com/drug173/drug173/assets/47415634/01fbbb0b-5032-4dc0-b5a7-167abf627d13)

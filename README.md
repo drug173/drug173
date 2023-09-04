@@ -41,7 +41,7 @@
 
 ### --------------------------------------------------------------------------
 #### Нейронные сети:  
-<div>
+<div align="center">
   <img src="https://github.com/drug173/drug173/blob/main/image/neiron1.jpg" width="250" height="150"/>
 </div>  
 

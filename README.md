@@ -5,7 +5,7 @@
 </div>
 
 ### :man_technologist: Обо мне:
-Я разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Ростова-на-Дону.
+Я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Ростова-на-Дону.
 
 - :telescope: Я начинающий разработчик, окончил "Институт математики, механики и компьютерных наук ЮФУ", продолжаю обучение в "ИКТИБ ЮФУ".
 

@@ -40,7 +40,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="370" height="200"/>
 </div>  
 
-#
 #### Нейронные сети:  
 
 

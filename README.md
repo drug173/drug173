@@ -60,7 +60,7 @@
 #### Си:  
 
 1. [TreeModel (Qt C++)](https://github.com/drug173/C/tree/main/TreeModel%20(Qt%20C%2B%2B)/TreeModel) - ___C++/Qt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).  
-2. [FileSystemStatistic](https://github.com/drug173/C/tree/main/FileSystemStatistic) - ___ Qt___, статистика файловой системы (тест eSignal).  
+2. [FileSystemStatistic](https://github.com/drug173/C/tree/main/FileSystemStatistic) - ___Qt___, статистика файловой системы (тест eSignal).  
 3. [G_code](https://github.com/drug173/C/tree/main/G_code) - преобразование текстового файла с кодом программирование станка с ЧПУ (G-code) (тестовое задание).  
 
 ## 

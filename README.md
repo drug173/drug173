@@ -39,21 +39,22 @@
 </div>
 
 
-## ----------------------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------------------------------
 #### Нейронные сети:  
 <div align="center">
   <img src="https://github.com/drug173/drug173/blob/main/image/neiron1.jpg" width="250" height="150"/>
 </div>  
 
-1. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель нейронной сети Pytorch, сегментация фасадов хданий (тест MindSet).  
-2. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель Pytorch, предсказаниe отзывов к фильмам, датасет stanford/imdb (тест GreenAtom).   
-3. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель Keras, классификация, датасет CIFAR10.  
-4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель Keras, классификация, датасет Mnist.
+1. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель нейронной сети __Pytorch__, сегментация фасадов хданий (тест MindSet).  
+2. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель __Pytorch__, предсказаниe отзывов к фильмам, датасет __stanford/imdb__ (тест GreenAtom).   
+3. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель __Keras__, классификация, датасет __CIFAR10__.  
+4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель __Keras__, классификация, датасет __Mnist__.
 
-## -----------------------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------------------------------
 #### Приложения Python:  
 
-
+1. [Tree1](https://github.com/drug173/Python/tree/main/applications/Tree1) - __pyqt__, представление таблицы в виде дерева из __SQLite__ (тест ОКТБ Вектор).
+2. [
 
 
 

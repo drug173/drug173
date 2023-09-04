@@ -39,25 +39,31 @@
 </div>
 
 
-## --------------------------------------------------------------------------------------------------------
+## ---------------------------------------------------------------------------------------------------
 #### Нейронные сети:  
 <div align="center">
-  <img src="https://github.com/drug173/drug173/blob/main/image/neiron1.jpg" width="250" height="150"/>
+  <img src="https://github.com/drug173/drug173/blob/main/image/neiron1.jpg" width="250" height="150"/>  
 </div>  
 
 1. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель ___Pytorch___, сегментация фасадов зданий (тест MindSet).  
 2. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель ___Pytorch___, предсказаниe отзывов к фильмам, датасет ___stanford/imdb___ (тест GreenAtom).   
 3. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель ___Keras___, классификация, датасет ___CIFAR10___.  
-4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель ___Keras___, классификация, датасет ___Mnist___.
+4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель ___Keras___, классификация, датасет ___Mnist___.  
 
-## --------------------------------------------------------------------------------------------------------
+## ---------------------------------------------------------------------------------------------------  
 #### Приложения Python:  
 
-1. [Tree1](https://github.com/drug173/Python/tree/main/applications/Tree1) - ___pyqt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).
-2. [file_manager_tkinter](https://github.com/drug173/Python/tree/main/applications/file_manager_tkinter) - Файловый менеджер, ___Tkinter___.
-3. [monitor_CPU_RAM_GPU](https://github.com/drug173/Python/tree/main/applications/monitor_CPU_RAM_GPU) - мониторинг ресурсов компьютера, ___Tkinter___, ___Psutil___.
-4. [test_SQLite](https://github.com/drug173/Python/tree/main/applications/test_SQLite) - ___Pandas___, ___SQLite___ (тестовое задание  Meowpunk).
+1. [Tree1](https://github.com/drug173/Python/tree/main/applications/Tree1) - ___pyqt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).  
+2. [file_manager_tkinter](https://github.com/drug173/Python/tree/main/applications/file_manager_tkinter) - Файловый менеджер, ___Tkinter___.  
+3. [monitor_CPU_RAM_GPU](https://github.com/drug173/Python/tree/main/applications/monitor_CPU_RAM_GPU) - мониторинг ресурсов компьютера, ___Tkinter___, ___Psutil___.  
+4. [test_SQLite](https://github.com/drug173/Python/tree/main/applications/test_SQLite) - ___Pandas___, ___SQLite___ (тестовое задание  Meowpunk).  
 
+## ---------------------------------------------------------------------------------------------------  
+#### Си:  
+
+1. [TreeModel (Qt C++)](https://github.com/drug173/C/tree/main/TreeModel%20(Qt%20C%2B%2B)/TreeModel) - ___C++/Qt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).  
+2. [FileSystemStatistic](https://github.com/drug173/C/tree/main/FileSystemStatistic) - ___ Qt___, статистика файловой системы (тест eSignal).  
+3. [G_code](https://github.com/drug173/C/tree/main/G_code) - преобразование текстового файла с кодом программирование станка с ЧПУ (G-code) (тестовое задание).  
 
 
 

@@ -42,9 +42,11 @@
 ### --------------------------------------------------------------------------
 #### Нейронные сети:  
 
-1.[Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель нейронной сети, сегментация фасадов хданий (тест MindSet).  
-2.[Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель предсказания отзывов к фильмам (тест GreenAtom)  
-3.[ 
+1. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель нейронной сети Pytorch, сегментация фасадов хданий (тест MindSet).  
+2. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель Pytorch, предсказаниe отзывов к фильмам, датасет stanford/imdb (тест GreenAtom).   
+3. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель Keras, классификация, датасет CIFAR10.  
+4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель Keras, классификация, датасет Mnist.
+5. 
 
 
 

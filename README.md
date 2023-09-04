@@ -45,7 +45,7 @@
   <img src="https://github.com/drug173/drug173/blob/main/image/neiron1.jpg" width="250" height="150"/>
 </div>  
 
-1. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель нейронной сети ___Pytorch___, сегментация фасадов хданий (тест MindSet).  
+1. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель нейронной сети ___Pytorch___, сегментация фасадов зданий (тест MindSet).  
 2. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель ___Pytorch___, предсказаниe отзывов к фильмам, датасет ___stanford/imdb___ (тест GreenAtom).   
 3. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель ___Keras___, классификация, датасет ___CIFAR10___.  
 4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель ___Keras___, классификация, датасет ___Mnist___.

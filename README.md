@@ -39,7 +39,7 @@
 </div>
 
 
-### --------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------------------------------------------
 #### Нейронные сети:  
 <div align="center">
   <img src="https://github.com/drug173/drug173/blob/main/image/neiron1.jpg" width="250" height="150"/>
@@ -50,6 +50,8 @@
 3. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель Keras, классификация, датасет CIFAR10.  
 4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель Keras, классификация, датасет Mnist.
 
+## -------------------------------------------------------------------------------------------------------------------------  
+#### Приложения Python:  
 
 
 

@@ -42,8 +42,9 @@
 ### --------------------------------------------------------------------------
 #### Нейронные сети:  
 
-1.Fasads - Модель нейронной сети, сегментация.
-2.[Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель предсказания отзывов к фильмам (тест greenatom)
+1.[Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель нейронной сети, сегментация фасадов хданий (тест MindSet).  
+2.[Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель предсказания отзывов к фильмам (тест GreenAtom)  
+3.[ 
 
 
 

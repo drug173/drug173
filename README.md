@@ -13,9 +13,6 @@
 
 - :zap: Python, C++, C#.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="370" height="200"/>
-</div>
 
 :hammer_and_wrench: Языки и инструменты  
 
@@ -38,12 +35,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+#  
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="370" height="200"/>
+</div>  
 
 #
 #### Нейронные сети:  
-<div align="center">
-  <img src="https://github.com/drug173/drug173/blob/main/image/neiron1.jpg" width="250" height="150"/>  
-</div>  
+
 
 1. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель ___Pytorch___, сегментация фасадов зданий (тест MindSet).  
 2. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель ___Pytorch___, предсказаниe отзывов к фильмам, датасет ___stanford/imdb___ (тест GreenAtom).   

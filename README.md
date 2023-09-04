@@ -14,7 +14,7 @@
 - :zap: Python, C++, C#.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="370" height="200"/>
 </div>
 
 :hammer_and_wrench: Языки и инструменты  
@@ -39,23 +39,10 @@
 </div>
 
 
+### Ноутбуки .ipynb и .py скрипты:
 
 
 
 
 
 
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

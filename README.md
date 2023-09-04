@@ -45,15 +45,15 @@
   <img src="https://github.com/drug173/drug173/blob/main/image/neiron1.jpg" width="250" height="150"/>
 </div>  
 
-1. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель нейронной сети __Pytorch__, сегментация фасадов хданий (тест MindSet).  
-2. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель __Pytorch__, предсказаниe отзывов к фильмам, датасет __stanford/imdb__ (тест GreenAtom).   
-3. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель __Keras__, классификация, датасет __CIFAR10__.  
-4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель __Keras__, классификация, датасет __Mnist__.
+1. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель нейронной сети ___Pytorch___, сегментация фасадов хданий (тест MindSet).  
+2. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель ___Pytorch___, предсказаниe отзывов к фильмам, датасет ___stanford/imdb___ (тест GreenAtom).   
+3. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель ___Keras___, классификация, датасет ___CIFAR10___.  
+4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель ___Keras___, классификация, датасет ___Mnist___.
 
 ## --------------------------------------------------------------------------------------------------------
 #### Приложения Python:  
 
-1. [Tree1](https://github.com/drug173/Python/tree/main/applications/Tree1) - __pyqt__, представление таблицы в виде дерева из __SQLite__ (тест ОКТБ Вектор).
+1. [Tree1](https://github.com/drug173/Python/tree/main/applications/Tree1) - ___pyqt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).
 2. [
 
 

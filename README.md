@@ -57,7 +57,7 @@
 4. [test_SQLite](https://github.com/drug173/Python/tree/main/applications/test_SQLite) - ___Pandas___, ___SQLite___ (тестовое задание  Meowpunk).  
 
 #  
-#### Си:  
+#### Си/C++:  
 
 1. [TreeModel (Qt C++)](https://github.com/drug173/C/tree/main/TreeModel%20(Qt%20C%2B%2B)/TreeModel) - ___C++/Qt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).  
 2. [FileSystemStatistic](https://github.com/drug173/C/tree/main/FileSystemStatistic) - ___Qt___, статистика файловой системы (тест eSignal).  

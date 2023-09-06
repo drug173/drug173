@@ -5,7 +5,7 @@
 </div>
 
 ### :man_technologist: Обо мне:  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 Я из Ростова-на-Дону.
 
 - :telescope: Начинающий разработчик, окончил "Институт математики, механики и компьютерных наук ЮФУ", продолжаю обучение в "ИКТИБ ЮФУ".
@@ -14,7 +14,7 @@
 
 - :zap: Python, C++, C#.
 
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 :hammer_and_wrench: Языки и инструменты  
 
 <div>

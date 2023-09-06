@@ -16,9 +16,9 @@
   
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Начинающий разработчик.
 
-- :seedling: Изучаю нейронные сети, машинное обучение, BigData.
+- :seedling: Изучаю нейронные сети, машинное обучение, ___BigData___.
 
-- :zap: Python, C++, C#.
+- :zap: ___Python___, ___C++___, ___C#___, ___Java___.
 
 
 :hammer_and_wrench: Языки и инструменты  

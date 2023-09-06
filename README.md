@@ -8,6 +8,8 @@
 
 Я из Ростова-на-Дону.
 
+- В прошлом военнослужащий.  
+  
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Начинающий разработчик.
 
 - :seedling: Изучаю нейронные сети, машинное обучение, BigData.

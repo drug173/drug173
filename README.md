@@ -4,10 +4,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### :man_technologist: Обо мне:
-Я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Ростова-на-Дону.
+### :man_technologist: Обо мне:  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Я из Ростова-на-Дону.
 
-- :telescope: Я начинающий разработчик, окончил "Институт математики, механики и компьютерных наук ЮФУ", продолжаю обучение в "ИКТИБ ЮФУ".
+- :telescope: Начинающий разработчик, окончил "Институт математики, механики и компьютерных наук ЮФУ", продолжаю обучение в "ИКТИБ ЮФУ".
 
 - :seedling: Изучаю нейронные сети, машинное обучение, BigData.
 

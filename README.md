@@ -54,8 +54,8 @@
 2. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель ___Pytorch___, предсказаниe отзывов к фильмам, датасет ___stanford/imdb___ (тест GreenAtom).   
 3. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель ___Keras___, классификация, датасет ___CIFAR10___.  
 4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель ___Keras___, классификация, датасет ___Mnist___.
-5. [twoo_moons](https://github.com/drug173/Python/blob/main/Neural_Networks/6_twoo_moons.ipynb) - Модель ___Pytorch___, Датасет ___Moons___.
-6. [сегментация родинок](https://github.com/drug173/Python/blob/main/Neural_Networks/Moles_Segmentation_Test_1-2.ipynb) - Модели ___Pytorch___, Датасет ___ADDI project___. (Сравнение моделей различных архитектур).
+5. [twoo_moons](https://github.com/drug173/Python/blob/main/Neural_Networks/twoo_moons.ipynb) - Модель ___Pytorch___, Датасет ___Moons___.
+6. [сегментация родинок](https://github.com/drug173/Python/blob/main/Neural_Networks/Moles_Segmentation_Test.ipynb) - Модели ___Pytorch___, Датасет ___ADDI project___. (Сравнение моделей различных архитектур).
 
 ##
 #### Приложения Python:  

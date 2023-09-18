@@ -56,7 +56,7 @@
 4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель ___Keras___, классификация, датасет ___Mnist___.
 5. [twoo_moons](https://github.com/drug173/Python/blob/main/Neural_Networks/twoo_moons.ipynb) - Модель ___Pytorch___, Датасет ___Moons___.
 6. [сегментация родинок](https://github.com/drug173/Python/blob/main/Neural_Networks/Moles_Segmentation_Test.ipynb) - Модели ___Pytorch___, Датасет ___ADDI project___. (Сравнение моделей различных архитектур).
-7.  [Сегментация сравнение архитектур](https://github.com/drug173/Python/tree/main/Neural_Networks/Carvana_segment) - Модели ___Pytorch___, Датасет ___Carvana___. (Сравнение моделей различных архитектур).
+7.  [Сегментация, сравнение архитектур](https://github.com/drug173/Python/tree/main/Neural_Networks/Carvana_segment) - Модели ___Pytorch___, Датасет ___Carvana___. (Сравнение моделей различных архитектур).
 
 ##
 #### Приложения Python:  

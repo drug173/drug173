@@ -50,14 +50,15 @@
 #### Нейронные сети:  
 
 
-1. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель ___Pytorch___, сегментация фасадов зданий (тест MindSet).  
-2. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель ___Pytorch___, предсказаниe отзывов к фильмам, датасет ___stanford/imdb___ (тест GreenAtom).   
-3. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель ___Keras___, классификация, датасет ___CIFAR10___.  
-4. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель ___Keras___, классификация, датасет ___Mnist___.
-5. [twoo_moons](https://github.com/drug173/Python/blob/main/Neural_Networks/twoo_moons.ipynb) - Модель ___Pytorch___, Датасет ___Moons___.
-6. [сегментация родинок](https://github.com/drug173/Python/blob/main/Neural_Networks/Moles_Segmentation_Test.ipynb) - Модели ___Pytorch___, Датасет ___ADDI project___. (Сравнение моделей различных архитектур).
-7.  [Сегментация, сравнение архитектур](https://github.com/drug173/Python/tree/main/Neural_Networks/Carvana_segment) - Модели ___Pytorch___, Датасет ___Carvana___. (Сравнение моделей различных архитектур).
-8.  [Сегментация трещин и сколов в бетоне, асфальте](https://github.com/drug173/Python/blob/main/Neural_Networks/Cracs_Segmentation_2_1-Copy1.ipynb) - Модели ___Pytorch___.
+1. [Сегментация трещин и сколов в бетоне, асфальте](https://github.com/drug173/Python/blob/main/Neural_Networks/Cracs_Segmentation_2_1-Copy1.ipynb) - Модели ___Pytorch___.  
+2. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель ___Pytorch___, сегментация фасадов зданий (тест MindSet).   
+3. [Test_films](https://github.com/drug173/Python/tree/main/test_films) - модель ___Pytorch___, предсказаниe отзывов к фильмам, датасет ___stanford/imdb___ (тест GreenAtom).   
+4. [colab_Test_cifar10](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_Test_cifar10.ipynb) - модель ___Keras___, классификация, датасет ___CIFAR10___.  
+5. [colab_competitions_kaggle_mnist](https://github.com/drug173/Python/blob/main/Neural_Networks/colab_competitions_kaggle_mnist.ipynb) - модель ___Keras___, классификация, датасет ___Mnist___.
+6. [twoo_moons](https://github.com/drug173/Python/blob/main/Neural_Networks/twoo_moons.ipynb) - Модель ___Pytorch___, Датасет ___Moons___.
+7. [сегментация родинок](https://github.com/drug173/Python/blob/main/Neural_Networks/Moles_Segmentation_Test.ipynb) - Модели ___Pytorch___, Датасет ___ADDI project___. (Сравнение моделей различных архитектур).
+8.  [Сегментация, сравнение архитектур](https://github.com/drug173/Python/tree/main/Neural_Networks/Carvana_segment) - Модели ___Pytorch___, Датасет ___Carvana___. (Сравнение моделей различных архитектур).
+
 
 ##
 #### Приложения Python:  

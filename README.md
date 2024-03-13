@@ -80,7 +80,7 @@
 
 [CSharp](https://github.com/drug173/C-)  
 
-1. [Сайт Библиотеки]([Library](https://github.com/drug173/C-/tree/main/Library/WebApplication1)).   
+1. [Сайт Библиотеки](https://github.com/drug173/C-/tree/main/Library/WebApplication1)   
 2. [Задача о назначениях](https://github.com/drug173/C-/tree/main/purpose(MaxMin)Net%204.0/naznachenie1)  
 3. [Игра жизнь](https://github.com/drug173/C-/tree/main/Game_of_Life)  
 

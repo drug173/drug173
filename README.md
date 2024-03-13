@@ -49,6 +49,7 @@
 
 #### Нейронные сети:  
 
+[Нейронный сети](https://github.com/drug173/Python/tree/main/Neural_Networks)  
 
 1. [Сегментация трещин и сколов в бетоне, асфальте](https://github.com/drug173/Python/blob/main/Neural_Networks/Cracs_Segmentation_2_1-Copy1.ipynb) - Модели ___Pytorch___.  
 2. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель ___Pytorch___, сегментация фасадов зданий (тест MindSet).   
@@ -63,6 +64,8 @@
 ##
 #### Приложения Python:  
 
+[Python](https://github.com/drug173/Python)  
+
 1. [Tree1](https://github.com/drug173/Python/tree/main/applications/Tree1) - ___pyqt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).  
 2. [file_manager_tkinter](https://github.com/drug173/Python/tree/main/applications/file_manager_tkinter) - Файловый менеджер, ___Tkinter___.  
 3. [monitor_CPU_RAM_GPU](https://github.com/drug173/Python/tree/main/applications/monitor_CPU_RAM_GPU) - мониторинг ресурсов компьютера, ___Tkinter___, ___Psutil___.  
@@ -70,6 +73,7 @@
 
 #  
 #### Си/C++:  
+[C++](https://github.com/drug173/C)  
 
 1. [TreeModel (Qt C++)](https://github.com/drug173/C/tree/main/TreeModel%20(Qt%20C%2B%2B)/TreeModel) - ___C++/Qt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).  
 2. [FileSystemStatistic](https://github.com/drug173/C/tree/main/FileSystemStatistic) - ___Qt___, статистика файловой системы (тест eSignal).  

@@ -47,7 +47,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="370" height="200"/>
 </div>  
 
-#### Нейронные сети:  
+### Нейронные сети:  
 
 [Нейронный сети](https://github.com/drug173/Python/tree/main/Neural_Networks)  
 
@@ -62,7 +62,7 @@
 
 
 ##
-#### Приложения Python:  
+### Приложения Python:  
 
 [Python](https://github.com/drug173/Python)  
 
@@ -72,7 +72,7 @@
 4. [test_SQLite](https://github.com/drug173/Python/tree/main/applications/test_SQLite) - ___Pandas___, ___SQLite___ (тестовое задание  Meowpunk).  
 
 #  
-#### Си/C++:  
+### Си/C++:  
 [C++](https://github.com/drug173/C)  
 
 1. [TreeModel (Qt C++)](https://github.com/drug173/C/tree/main/TreeModel%20(Qt%20C%2B%2B)/TreeModel) - ___C++/Qt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).  
@@ -80,7 +80,7 @@
 3. [G_code](https://github.com/drug173/C/tree/main/G_code) - преобразование текстового файла с кодом программирование станка с ЧПУ (G-code) (тестовое задание).
 
 
-#### СSharp:  
+### [CSharp](https://github.com/drug173/C-):  
 
 [CSharp](https://github.com/drug173/C-)  
 
@@ -90,7 +90,7 @@
 
 
 ## 
-#### Java:  
+### Java:  
 
 1. [java](https://github.com/drug173/Java) - тесты  
      

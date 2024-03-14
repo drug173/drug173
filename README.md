@@ -47,9 +47,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="370" height="200"/>
 </div>  
 
-### Нейронные сети:  
+### Нейронные [сети:](https://github.com/drug173/Python/tree/main/Neural_Networks)   
 
-[Нейронный сети](https://github.com/drug173/Python/tree/main/Neural_Networks)  
+
 
 1. [Сегментация трещин и сколов в бетоне, асфальте](https://github.com/drug173/Python/blob/main/Neural_Networks/Cracs_Segmentation_2_1-Copy1.ipynb) - Модели ___Pytorch___.  
 2. [Fasads](https://github.com/drug173/Python/blob/main/Fasads_windows_mask_count_.ipynb) - Модель ___Pytorch___, сегментация фасадов зданий (тест MindSet).   
@@ -62,9 +62,9 @@
 
 
 ##
-### Приложения Python:  
+### Приложения [Python:](https://github.com/drug173/Python)    
 
-[Python](https://github.com/drug173/Python)  
+
 
 1. [Tree1](https://github.com/drug173/Python/tree/main/applications/Tree1) - ___pyqt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).  
 2. [file_manager_tkinter](https://github.com/drug173/Python/tree/main/applications/file_manager_tkinter) - Файловый менеджер, ___Tkinter___.  
@@ -72,17 +72,17 @@
 4. [test_SQLite](https://github.com/drug173/Python/tree/main/applications/test_SQLite) - ___Pandas___, ___SQLite___ (тестовое задание  Meowpunk).  
 
 #  
-### Си/C++:  
-[C++](https://github.com/drug173/C)  
+### [СИ/C++:](https://github.com/drug173/C)
+
 
 1. [TreeModel (Qt C++)](https://github.com/drug173/C/tree/main/TreeModel%20(Qt%20C%2B%2B)/TreeModel) - ___C++/Qt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).  
 2. [FileSystemStatistic](https://github.com/drug173/C/tree/main/FileSystemStatistic) - ___Qt___, статистика файловой системы (тест eSignal).  
 3. [G_code](https://github.com/drug173/C/tree/main/G_code) - преобразование текстового файла с кодом программирование станка с ЧПУ (G-code) (тестовое задание).
 
 
-### [CSharp](https://github.com/drug173/C-):  
+### [CSharp:](https://github.com/drug173/C-)  
 
-[CSharp](https://github.com/drug173/C-)  
+
 
 1. [Сайт Библиотеки](https://github.com/drug173/C-/tree/main/Library/WebApplication1)   
 2. [Задача о назначениях](https://github.com/drug173/C-/tree/main/purpose(MaxMin)Net%204.0/naznachenie1)  

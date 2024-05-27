@@ -71,7 +71,7 @@
 2. [file_manager_tkinter](https://github.com/drug173/Python/tree/main/applications/file_manager_tkinter) - Файловый менеджер, ___Tkinter___.  
 3. [monitor_CPU_RAM_GPU](https://github.com/drug173/Python/tree/main/applications/monitor_CPU_RAM_GPU) - мониторинг ресурсов компьютера, ___Tkinter___, ___Psutil___.  
 4. [test_SQLite](https://github.com/drug173/Python/tree/main/applications/test_SQLite) - ___Pandas___, ___SQLite___ (тестовое задание  Meowpunk).
-5. [RPA - парсинг сайта](https://github.com/drug173/Python/tree/main/test_GreenAtom_RPA] -  Nест Гринатом
+5. [RPA - парсинг сайта](https://github.com/drug173/Python/tree/main/test_GreenAtom_RPA) -  Nест Гринатом
 
 #  
 ### [СИ/C++:](https://github.com/drug173/C)

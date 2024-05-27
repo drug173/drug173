@@ -59,6 +59,7 @@
 6. [twoo_moons](https://github.com/drug173/Python/blob/main/Neural_Networks/twoo_moons.ipynb) - Модель ___Pytorch___, Датасет ___Moons___.
 7. [сегментация родинок](https://github.com/drug173/Python/blob/main/Neural_Networks/Moles_Segmentation_Test.ipynb) - Модели ___Pytorch___, Датасет ___ADDI project___. (Сравнение моделей различных архитектур).
 8.  [Сегментация, сравнение архитектур](https://github.com/drug173/Python/tree/main/Neural_Networks/Carvana_segment) - Модели ___Pytorch___, Датасет ___Carvana___. (Сравнение моделей различных архитектур).
+9. [Градиентный бустинг](https://github.com/drug173/Python/blob/main/Neural_Networks/Test_Naska_1.ipynb) - Тест  Наска
 
 
 ##
@@ -69,7 +70,8 @@
 1. [Tree1](https://github.com/drug173/Python/tree/main/applications/Tree1) - ___pyqt___, представление таблицы в виде дерева из ___SQLite___ (тест ОКТБ Вектор).  
 2. [file_manager_tkinter](https://github.com/drug173/Python/tree/main/applications/file_manager_tkinter) - Файловый менеджер, ___Tkinter___.  
 3. [monitor_CPU_RAM_GPU](https://github.com/drug173/Python/tree/main/applications/monitor_CPU_RAM_GPU) - мониторинг ресурсов компьютера, ___Tkinter___, ___Psutil___.  
-4. [test_SQLite](https://github.com/drug173/Python/tree/main/applications/test_SQLite) - ___Pandas___, ___SQLite___ (тестовое задание  Meowpunk).  
+4. [test_SQLite](https://github.com/drug173/Python/tree/main/applications/test_SQLite) - ___Pandas___, ___SQLite___ (тестовое задание  Meowpunk).
+5. [RPA - парсинг сайта](https://github.com/drug173/Python/tree/main/test_GreenAtom_RPA] -  Nест Гринатом
 
 #  
 ### [СИ/C++:](https://github.com/drug173/C)
